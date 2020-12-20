@@ -1,0 +1,14 @@
+.DS_Store
+build
+.vs
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+*.dir
+*.vcxproj
+*.filters
+/tags
+.idea
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+Release
+Debug
