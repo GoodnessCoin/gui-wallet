@@ -11,7 +11,7 @@ Currently built release is compiled with boost 1.68.0 and Qt 5.12.10
 
 Compilation informations for Windows:
 
-Update core submodule :
+Update core submodule
 
 ```html
 $ cd iridium-wallet
@@ -19,7 +19,7 @@ $ git submodule update --init
 $ git submodule foreach git pull origin master
 ```
 
-Compile:
+Compile
 
 ```html
 $ git clone -b master https://github.com/GoodnessCoin/gui-wallet.git
