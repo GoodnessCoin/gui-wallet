@@ -14,7 +14,7 @@ Compilation informations for Windows:
 Update core submodule
 
 ```html
-$ cd iridium-wallet
+$ cd gui-wallet
 $ git submodule update --init
 $ git submodule foreach git pull origin master
 ```
