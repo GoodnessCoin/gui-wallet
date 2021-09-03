@@ -1,4 +1,4 @@
-# gui-wallet
+# Gui wallet
 ![](https://i.paste.pics/014eecc6d1ee9dce3fba36f376a9c7a8.png)
 
 This is the goodness gui wallet source code and binary release for Windows and linux
