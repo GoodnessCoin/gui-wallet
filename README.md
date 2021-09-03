@@ -9,7 +9,7 @@ Dependencies needed : boost >= 1.58, CMake >= 3.1, GCC >=4.7.3, Qt >=5.0
 
 Currently built release is compiled with boost 1.68.0 and Qt 5.12.10
 
-Compilation informations for Windows:
+**Compilation informations for Windows:**
 
 Update core submodule
 
